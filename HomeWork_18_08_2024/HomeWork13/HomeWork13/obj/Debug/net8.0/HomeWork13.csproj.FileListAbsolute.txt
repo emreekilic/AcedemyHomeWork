@@ -1,0 +1,15 @@
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/bin/Debug/net8.0/HomeWork13
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/bin/Debug/net8.0/HomeWork13.deps.json
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/bin/Debug/net8.0/HomeWork13.runtimeconfig.json
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/bin/Debug/net8.0/HomeWork13.dll
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/bin/Debug/net8.0/HomeWork13.pdb
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/obj/Debug/net8.0/HomeWork13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/obj/Debug/net8.0/HomeWork13.AssemblyInfoInputs.cache
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/obj/Debug/net8.0/HomeWork13.AssemblyInfo.cs
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/obj/Debug/net8.0/HomeWork13.csproj.CoreCompileInputs.cache
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/obj/Debug/net8.0/HomeWork13.sourcelink.json
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/obj/Debug/net8.0/HomeWork13.dll
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/obj/Debug/net8.0/refint/HomeWork13.dll
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/obj/Debug/net8.0/HomeWork13.pdb
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/obj/Debug/net8.0/HomeWork13.genruntimeconfig.cache
+/Users/emrekilic/Documents/GitHub/AcunmedyaAkademiBackEndOdevler/HomeWork_18_08_2024/HomeWork13/HomeWork13/obj/Debug/net8.0/ref/HomeWork13.dll

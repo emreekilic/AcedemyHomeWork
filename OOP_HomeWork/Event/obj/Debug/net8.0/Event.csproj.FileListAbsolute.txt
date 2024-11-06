@@ -1,0 +1,15 @@
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/bin/Debug/net8.0/Event
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/bin/Debug/net8.0/Event.deps.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/bin/Debug/net8.0/Event.runtimeconfig.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/bin/Debug/net8.0/Event.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/bin/Debug/net8.0/Event.pdb
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/obj/Debug/net8.0/Event.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/obj/Debug/net8.0/Event.AssemblyInfoInputs.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/obj/Debug/net8.0/Event.AssemblyInfo.cs
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/obj/Debug/net8.0/Event.csproj.CoreCompileInputs.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/obj/Debug/net8.0/Event.sourcelink.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/obj/Debug/net8.0/Event.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/obj/Debug/net8.0/refint/Event.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/obj/Debug/net8.0/Event.pdb
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/obj/Debug/net8.0/Event.genruntimeconfig.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Event/obj/Debug/net8.0/ref/Event.dll

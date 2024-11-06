@@ -1,0 +1,15 @@
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/bin/Debug/net8.0/Vehicle Management System
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/bin/Debug/net8.0/Vehicle Management System.deps.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/bin/Debug/net8.0/Vehicle Management System.runtimeconfig.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/bin/Debug/net8.0/Vehicle Management System.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/bin/Debug/net8.0/Vehicle Management System.pdb
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.AssemblyInfoInputs.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.AssemblyInfo.cs
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.csproj.CoreCompileInputs.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.sourcelink.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/obj/Debug/net8.0/refint/Vehicle Management System.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.pdb
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/obj/Debug/net8.0/Vehicle Management System.genruntimeconfig.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Vehicle Management System/obj/Debug/net8.0/ref/Vehicle Management System.dll

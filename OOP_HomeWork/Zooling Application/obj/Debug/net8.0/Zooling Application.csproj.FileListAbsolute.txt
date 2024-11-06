@@ -1,0 +1,15 @@
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/bin/Debug/net8.0/Zooling Application
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/bin/Debug/net8.0/Zooling Application.deps.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/bin/Debug/net8.0/Zooling Application.runtimeconfig.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/bin/Debug/net8.0/Zooling Application.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/bin/Debug/net8.0/Zooling Application.pdb
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/obj/Debug/net8.0/Zooling Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/obj/Debug/net8.0/Zooling Application.AssemblyInfoInputs.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/obj/Debug/net8.0/Zooling Application.AssemblyInfo.cs
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/obj/Debug/net8.0/Zooling Application.csproj.CoreCompileInputs.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/obj/Debug/net8.0/Zooling Application.sourcelink.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/obj/Debug/net8.0/Zooling Application.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/obj/Debug/net8.0/refint/Zooling Application.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/obj/Debug/net8.0/Zooling Application.pdb
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/obj/Debug/net8.0/Zooling Application.genruntimeconfig.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Zooling Application/obj/Debug/net8.0/ref/Zooling Application.dll

@@ -1,0 +1,15 @@
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/bin/Debug/net8.0/Soru5
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/bin/Debug/net8.0/Soru5.deps.json
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/bin/Debug/net8.0/Soru5.runtimeconfig.json
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/bin/Debug/net8.0/Soru5.dll
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/bin/Debug/net8.0/Soru5.pdb
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/obj/Debug/net8.0/Soru5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/obj/Debug/net8.0/Soru5.AssemblyInfoInputs.cache
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/obj/Debug/net8.0/Soru5.AssemblyInfo.cs
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/obj/Debug/net8.0/Soru5.csproj.CoreCompileInputs.cache
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/obj/Debug/net8.0/Soru5.sourcelink.json
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/obj/Debug/net8.0/Soru5.dll
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/obj/Debug/net8.0/refint/Soru5.dll
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/obj/Debug/net8.0/Soru5.pdb
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/obj/Debug/net8.0/Soru5.genruntimeconfig.cache
+/Users/emrekilic/Documents/GitHub/HomeWork_08_09_2024/Methods_HomeWork/Soru5/obj/Debug/net8.0/ref/Soru5.dll

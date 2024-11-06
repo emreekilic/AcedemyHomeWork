@@ -1,0 +1,15 @@
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\obj\Debug\net8.0\ArryHomwWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\obj\Debug\net8.0\ArryHomwWork.AssemblyInfoInputs.cache
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\obj\Debug\net8.0\ArryHomwWork.AssemblyInfo.cs
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\obj\Debug\net8.0\ArryHomwWork.csproj.CoreCompileInputs.cache
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\obj\Debug\net8.0\ArryHomwWork.sourcelink.json
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\bin\Debug\net8.0\ArryHomwWork.exe
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\bin\Debug\net8.0\ArryHomwWork.deps.json
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\bin\Debug\net8.0\ArryHomwWork.runtimeconfig.json
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\bin\Debug\net8.0\ArryHomwWork.dll
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\bin\Debug\net8.0\ArryHomwWork.pdb
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\obj\Debug\net8.0\ArryHomwWork.dll
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\obj\Debug\net8.0\refint\ArryHomwWork.dll
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\obj\Debug\net8.0\ArryHomwWork.pdb
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\obj\Debug\net8.0\ArryHomwWork.genruntimeconfig.cache
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Arrys_HomeWork\ArryHomeWork\ArryHomwWork\obj\Debug\net8.0\ref\ArryHomwWork.dll

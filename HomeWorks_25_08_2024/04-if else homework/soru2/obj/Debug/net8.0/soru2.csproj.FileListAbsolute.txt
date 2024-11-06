@@ -1,0 +1,15 @@
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\bin\Debug\net8.0\soru2.exe
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\bin\Debug\net8.0\soru2.deps.json
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\bin\Debug\net8.0\soru2.runtimeconfig.json
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\bin\Debug\net8.0\soru2.dll
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\bin\Debug\net8.0\soru2.pdb
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\obj\Debug\net8.0\soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\obj\Debug\net8.0\soru2.AssemblyInfoInputs.cache
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\obj\Debug\net8.0\soru2.AssemblyInfo.cs
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\obj\Debug\net8.0\soru2.csproj.CoreCompileInputs.cache
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\obj\Debug\net8.0\soru2.sourcelink.json
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\obj\Debug\net8.0\soru2.dll
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\obj\Debug\net8.0\refint\soru2.dll
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\obj\Debug\net8.0\soru2.pdb
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\obj\Debug\net8.0\soru2.genruntimeconfig.cache
+C:\Users\emre1\Documents\GitHub\HomeWorks_25_08_2024\04-if else homework\Soru2\obj\Debug\net8.0\ref\soru2.dll

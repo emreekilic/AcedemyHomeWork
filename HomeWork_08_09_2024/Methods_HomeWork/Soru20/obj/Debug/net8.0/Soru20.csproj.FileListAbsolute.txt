@@ -1,0 +1,15 @@
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\bin\Debug\net8.0\Soru20.exe
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\bin\Debug\net8.0\Soru20.deps.json
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\bin\Debug\net8.0\Soru20.runtimeconfig.json
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\bin\Debug\net8.0\Soru20.dll
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\bin\Debug\net8.0\Soru20.pdb
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\obj\Debug\net8.0\Soru20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\obj\Debug\net8.0\Soru20.AssemblyInfoInputs.cache
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\obj\Debug\net8.0\Soru20.AssemblyInfo.cs
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\obj\Debug\net8.0\Soru20.csproj.CoreCompileInputs.cache
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\obj\Debug\net8.0\Soru20.sourcelink.json
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\obj\Debug\net8.0\Soru20.dll
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\obj\Debug\net8.0\refint\Soru20.dll
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\obj\Debug\net8.0\Soru20.pdb
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\obj\Debug\net8.0\Soru20.genruntimeconfig.cache
+C:\Users\emre1\Documents\GitHub\HomeWork_08_09_2024\Methods_HomeWork\Soru20\obj\Debug\net8.0\ref\Soru20.dll

@@ -1,0 +1,15 @@
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/bin/Debug/net8.0/Emoloyee
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/bin/Debug/net8.0/Emoloyee.deps.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/bin/Debug/net8.0/Emoloyee.runtimeconfig.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/bin/Debug/net8.0/Emoloyee.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/bin/Debug/net8.0/Emoloyee.pdb
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/obj/Debug/net8.0/Emoloyee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/obj/Debug/net8.0/Emoloyee.AssemblyInfoInputs.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/obj/Debug/net8.0/Emoloyee.AssemblyInfo.cs
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/obj/Debug/net8.0/Emoloyee.csproj.CoreCompileInputs.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/obj/Debug/net8.0/Emoloyee.sourcelink.json
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/obj/Debug/net8.0/Emoloyee.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/obj/Debug/net8.0/refint/Emoloyee.dll
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/obj/Debug/net8.0/Emoloyee.pdb
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/obj/Debug/net8.0/Emoloyee.genruntimeconfig.cache
+/Users/emrekilic/Documents/GitHub/OOP_HomeWork/Emoloyee/obj/Debug/net8.0/ref/Emoloyee.dll
